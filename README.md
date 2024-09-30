@@ -1,6 +1,8 @@
 ## Hey there, I'm Nikhil! 👋
 
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+<div align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOrSzlBUNtNTA4vnr9nBGoz3WhCE_3fOHVIQ&s" style="width: 100%;" alt="MasterHead Image"/>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -14,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** & **Data
 ### 🚀 About Me:
 
 - 🔭 Currently crafting **Edu-Stream Management**, an all-in-one e-learning platform that redefines the learning experience using AI-driven recommendations.
+- 🌱 Currently working on **BirdRaksh**, a project focused on bird species prediction using image processing.
 - 🌱 Constantly leveling up with **Next.js**, **Cloud Computing**, and advanced **ML algorithms**.
 - 👯 Looking to collaborate on projects that blend creativity with cutting-edge tech like **AI**, **Web Development**, and **Data Science**.
 - 🎯 Focused on building products that solve real-world problems and enhance the user experience.
@@ -80,11 +83,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** & **Data
   <img src="https://github-readme-stats.vercel.app/api?username=nikhildeshmukh170&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhildeshmukh170&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
-
----
-
-### 🐍 GitHub Contribution Snake:
-![GitHub Snake](https://github.com/nikhildeshmukh170/nikhildeshmukh170/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
