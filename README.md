@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** & **Data
 - 🌱 Constantly leveling up with **Next.js**, **Cloud Computing**, and advanced **ML algorithms**.
 - 👯 Looking to collaborate on projects that blend creativity with cutting-edge tech like **AI**, **Web Development**, and **Data Science**.
 - 🎯 Focused on building products that solve real-world problems and enhance the user experience.
+- 🌟 **Girlscript Summer of Code 2024 (GSSOC'24)** batch participant, contributing to impactful open-source projects.
 
 ---
 
